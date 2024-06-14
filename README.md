@@ -43,6 +43,8 @@ save new cleaned df
 # book_schemata.sql
 
 create sql tables
+import to corresponding tables   1 cleaned_books.csv
+                                 2 cleaned_books_detail.csv
 relationship between tables
 2nf
 joins
